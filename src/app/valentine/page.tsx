@@ -76,7 +76,7 @@ export default function Home() {
             alt="yessir"
             src="https://media1.tenor.com/m/J3o-7E-2JGAAAAAd/emuahh.gif"
           ></img>
-          <div className="title">LET'S GOOOOOOO!!!!</div>
+          <div className="title">LET&apos;S GOOOOOOO!!!!</div>
         </>
       ) : (
         <>
